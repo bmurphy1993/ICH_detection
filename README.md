@@ -3,7 +3,7 @@ NYU Deep Learning Spring 2021 Final Project
 Brian Murphy and Nivedha Satyamoorthi
 
 ## Data
-Download Kaggle data to ICH_detection/data: https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/data
+Download Kaggle data to the ICH_detection/data subdirectory from: https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/data
 
 All data used for this project will be in the stage_2_train subdirectory
 All labels used for this project are in stage_2_train.csv

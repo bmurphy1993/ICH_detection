@@ -14,3 +14,6 @@ Once training is finished, run ICH_detection/DenseNet/evaluate.py to get test re
 To explore hyperparameters on a smaller data subset, run ICH_detection/DenseNet/train_model_sub.py
 
 ## Resnet18
+To train the DenseNet121 model on the RSNA ICH training images, run ICH_detection/ResNet/resnetproj.py after setting up a python/conda environment with necessary packages
+Once training is finished, run ICH_detection/ResNet/eval_mod.py to get test results
+To explore hyperparameters on a smaller data subset, run ICH_detection/ResNet/resnetproj.py with small input file.
